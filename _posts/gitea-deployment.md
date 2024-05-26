@@ -1,6 +1,6 @@
 ---
 title: Gitea Deployment
-date: 2025-052-25
+date: 2025-05-24 21:00:00 -500
 categories: [Homelab, Gitea, Git, Project Management]
 tags: [server,gitea]
 ---
